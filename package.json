@@ -1,0 +1,19 @@
+{
+  "name": "practiceapp",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "magic": "webpack"
+  },
+  "author": "Saravanan",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@types/react": "^16.0.34",
+    "@types/react-dom": "^16.0.3",
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0",
+    "ts-loader": "^3.2.0",
+    "webpack": "^3.10.0"
+  }
+}
